@@ -1,0 +1,26 @@
+.ttd{
+    position: absolute;
+    top: 350px;
+    right: 0;
+    width: 250px;
+    height: 100px;
+}
+.tempat{
+    position: relative;
+}
+.admin{
+    position: relative;
+    left: 70px;
+}
+.nama{
+    position: relative;
+    top: 100 ;
+    left: 35px;
+}
+.logo{
+  position: absolute;
+  bottom: 0px;
+  right: 275;
+  width: 200px;
+  height: 100px;
+}
